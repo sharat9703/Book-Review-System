@@ -23,7 +23,7 @@ index.js
    npm install
    npm install bcryptjs jsonwebtoken
    ```
-2. Copy `.env.example` to `.env` and fill in your MongoDB URI and JWT secret.
+2. configure .env file   
 3. Start the server:
    ```bash
    npm run dev
